@@ -58,11 +58,6 @@ if __name__ == '__main__':
     main()
 
 
-def someCode():
-    iAmGoodProgrammer = "Hello world"
-    upperLimit = 10*24+4
-    for x in range(upperLimit):
-        print(iAmGoodProgrammer, str(x))
 
     return 1
 
